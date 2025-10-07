@@ -13,9 +13,9 @@ This repository contains all the practical and theoretical work completed for my
 ### Part 1 - Network Topologies Design & Simulation
 
 - Bus Topology
-  - [Packet File](network-topologies/Bus/bus.pkt)
   - [Image](network-topologies/Bus/bus-topology.png)
   - [README](network-topologies/Bus/README.md)
+  - [Packet File](network-topologies/Bus/bus.pkt)
 
 - Mesh Topology
   - [Packet File](network-topologies/Bus/bus.pkt)
