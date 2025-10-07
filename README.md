@@ -15,7 +15,7 @@ This repository contains all the practical and theoretical work completed for my
 - Bus Topology
   - [Packet File](network-topologies/Bus/bus.pkt)
   - [Screenshot](network-topologies/Bus/bus-topology.png)
-  - [README](network-topologies/bus/README.md)
+  - [README](network-topologies/Bus/README.md)
 
 - Mesh Topology
   - [Packet File](computer-networks-semester-project/network-topologies/Bus/bus.pkt)
