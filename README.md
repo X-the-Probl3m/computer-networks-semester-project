@@ -18,26 +18,26 @@ This repository contains all the practical and theoretical work completed for my
   - [README](network-topologies/Bus/README.md)
 
 - Mesh Topology
-  - [Packet File](computer-networks-semester-project/network-topologies/Bus/bus.pkt)
-  - [Screenshot](computer-networks-semester-project/network-topologies/Bus/bus-topology.png)
-  - [README](computer-networks-semester-project/network-topologies/Bus/README.md)
+  - [Packet File](network-topologies/Bus/bus.pkt)
+  - [Screenshot](network-topologies/Bus/bus-topology.png)
+  - [README](network-topologies/Bus/README.md)
 
 - Star Topology
-  - [Packet File](computer-networks-semester-project/network-topologies/Bus/bus.pkt)
-  - [Screenshot](computer-networks-semester-project/network-topologies/Bus/bus-topology.png)
-  - [README](computer-networks-semester-project/network-topologies/Bus/README.md)
+  - [Packet File](network-topologies/Bus/bus.pkt)
+  - [Screenshot](network-topologies/Bus/bus-topology.png)
+  - [README](network-topologies/Bus/README.md)
 
 - Ring Topology
-  - [Packet File](computer-networks-semester-project/network-topologies/Bus/bus.pkt)
-  - [Screenshot](computer-networks-semester-project/network-topologies/Bus/bus-topology.png)
-  - [README](computer-networks-semester-project/network-topologies/Bus/README.md)
+  - [Packet File](network-topologies/Bus/bus.pkt)
+  - [Screenshot](network-topologies/Bus/bus-topology.png)
+  - [README](network-topologies/Bus/README.md)
 
 - Extended Star Topology
-  - [Packet File](computer-networks-semester-project/network-topologies/Bus/bus.pkt)
-  - [Screenshot](computer-networks-semester-project/network-topologies/Bus/bus-topology.png)
-  - [README](computer-networks-semester-project/network-topologies/Bus/README.md)
+  - [Packet File](network-topologies/Bus/bus.pkt)
+  - [Screenshot](network-topologies/Bus/bus-topology.png)
+  - [README](network-topologies/Bus/README.md)
 
 - Hybrid Topology
-  - [Packet File](computer-networks-semester-project/network-topologies/Bus/bus.pkt)
-  - [Screenshot](computer-networks-semester-project/network-topologies/Bus/bus-topology.png)
-  - [README](computer-networks-semester-project/network-topologies/Bus/README.md)
+  - [Packet File](network-topologies/Bus/bus.pkt)
+  - [Screenshot](network-topologies/Bus/bus-topology.png)
+  - [README](network-topologies/Bus/README.md)
