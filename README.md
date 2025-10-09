@@ -1,16 +1,15 @@
 # Computer Networks Semester Project
 
 ## Overview
-This project showcases the design and simulation of various computer network topologies using Cisco Packet Tracer.
-Each topology includes configuration notes, screenshots and documentation that illustrate its structure, functionality.
+This project demonstrates the design and simulation of multiple computer network topologies using Cisco Packet Tracer. Each topology is supported by detailed configuration notes, screenshots, and documentation that explain its structure, connectivity, and functionality.
 
-In addition to topology design, the project also covers DHCPv4 server configuration.
+The repository also includes DHCPv4 server configuration to showcase dynamic IP management within simulated environments.
 
-This repository contains all the practical and theoretical work completed for my Computer Networks course, demonstrating how different network architectures, devices and configurations are implemented in a simulated environment.
+This project, developed as part of my Computer Networks course, reflects a strong understanding of networking architecture, device configuration, and protocol implementation in network design and analysis.
 
 ## Project Structure
 
-## Part 1 - Network Topologies Design & Simulation
+### Part 1 - Network Topologies Design & Simulation
 
 - Bus Topology
   
@@ -52,7 +51,7 @@ This repository contains all the practical and theoretical work completed for my
   - [Screenshot](network-topologies/Bus/bus-topology.png)
   - [README](network-topologies/Bus/README.md)
 
-## Part 2 - DHCPv4 Server Configuration
+### Part 2 - DHCPv4 Server Configuration
 ### Topology Design
 <img width="2001" height="830" alt="DHCPv4" src="https://github.com/user-attachments/assets/3de900f9-0b61-4401-849b-be082aae279d" />
 
