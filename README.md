@@ -46,6 +46,7 @@ This repository contains all the practical and theoretical work completed for my
 ### Topology Design
 <img width="2001" height="830" alt="DHCPv4" src="https://github.com/user-attachments/assets/3de900f9-0b61-4401-849b-be082aae279d" />
 
-  -[README](network-topologies/)
+  - [README](DHCPv4-Server-Configuration(part-2)/README.md)
+  - [Packet File](DHCPv4-Server-Configuration(part-2)/DHCPv4.pkt)
 
 
