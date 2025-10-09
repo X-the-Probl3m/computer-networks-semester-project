@@ -21,9 +21,10 @@ This repository contains all the practical and theoretical work completed for my
 
 - Mesh Topology
 
-  - [Packet File](network-topologies/Bus/bus.pkt)
-  - [Screenshot](network-topologies/Bus/bus-topology.png)
-  - [README](network-topologies/Bus/README.md)
+  <img width="2001" height="893" alt="image" src="https://github.com/user-attachments/assets/9f3a5e7d-a6a8-40c6-8125-3e32c68d31d0" />
+
+  - [README](Network-Topologies(part-1)/Mesh/mesh.pkt)
+  - [Packet File](Network-Topologies(part-1)/Mesh/mesh.pkt)
 
 - Star Topology
 
