@@ -1,4 +1,4 @@
-# Bus Topology
+# Bus Network Topology
 ## Overview
 In this lab, I demonstrate the implementation of a  Bus Network Topology in Cisco Packet Tracer.
 In this setup, multiple switches are connected in a linear (bus) arrangement, with each switch connected to a single pc.
