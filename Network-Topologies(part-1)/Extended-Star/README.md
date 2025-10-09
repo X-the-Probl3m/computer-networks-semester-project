@@ -7,24 +7,24 @@ In this setup, a central switch connects to multiple secondary switches, each of
 
 ## Topology
 
-<img width="1027" height="342" alt="image" src="https://github.com/user-attachments/assets/2d49d7a3-4362-403e-be76-1bc25fcdd596" />
+<img width="2001" height="826" alt="image" src="https://github.com/user-attachments/assets/4395bb34-abe3-47bf-b32c-fc61b1ed0986" />
 
 ### Devices used:
-- 5 x switches 
-- 5 x end devices 
+- 1 x central switches 
+- 5 x secondary switches
+- 20 x PCs (4 per secondary switch)
 
 ## IP Addressing Table
 
-| Device | IP Address | Subnet Mask | Default Gateway |
+| Device Range | IP Address | Subnet Mask | Notes |
 |---|---|---|---|
-| PC1 | 192.168.10.1 | 255.255.255.0 | 192.168.20.1 |
-| PC2 | 192.168.10.2 | 255.255.255.0 | 192.168.20.1 |
-| PC3 | 192.168.10.3 | 255.255.255.0 | 192.168.20.1 |
-| PC4 | 192.168.10.4 | 255.255.255.0 | 192.168.20.1 |
-| PC5 | 192.168.10.5 | 255.255.255.0 | 192.168.20.1 |
+| PC0 - PC3 | 192.168.50.10 - 192.168.50.13 | 255.255.255.0 | Connected to Switch1 |
+| PC4 - PC7 | 192.168.50.14 - 192.168.50.17 | 255.255.255.0 | Connected to Switch2 |
+| PC8 - PC11 | 192.168.50.18 - 192.168.50.21 | 255.255.255.0 | Connected to Switch3 |
+| PC12 - PC15 | 192.168.50.22 - 192.168.50.25 | 255.255.255.0 | Connected to Switch4 |
+| PC16 - PC19 | 192.168.50.26 - 192.168.50.29 | 255.255.255.0 | Connected to Switch5 |
 
-Each pc is manually assigned an IP address that falls within the 192.168.10.0/24 range.
-The default gateway (192.168.20.1) represents a future connection point to a router or other networks.
+All devices are sharing the same network (192.168.50.0/24). Each Pc has a unique IP address and subnet mask, manually configured.
 
 ## Troubleshooting
 If pc's fail to communicate, check the following:
