@@ -10,7 +10,7 @@ This repository contains all the practical and theoretical work completed for my
 
 ## Project Structure
 
-### Part 1 - Network Topologies Design & Simulation
+## Part 1 - Network Topologies Design & Simulation
 
 - Bus Topology
   - [Image](network-topologies/Bus/bus-topology.png)
@@ -41,3 +41,11 @@ This repository contains all the practical and theoretical work completed for my
   - [Packet File](network-topologies/Bus/bus.pkt)
   - [Screenshot](network-topologies/Bus/bus-topology.png)
   - [README](network-topologies/Bus/README.md)
+
+## Part 2 - DHCPv4 Server Configuration
+### Topology Design
+<img width="2001" height="830" alt="DHCPv4" src="https://github.com/user-attachments/assets/3de900f9-0b61-4401-849b-be082aae279d" />
+
+  -[README](network-topologies/)
+
+
