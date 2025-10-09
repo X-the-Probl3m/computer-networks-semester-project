@@ -4,6 +4,7 @@ In this lab, I configure a DHCPv4 server to automatically assign IPv4 addresses 
 
 ## Topology
 
+<img width="2001" height="830" alt="DHCPv4" src="https://github.com/user-attachments/assets/9f3fac78-3016-46e4-b50a-daf75a23934a" />
 
 ### Devices used:
 - 1 x DHCP Server
@@ -13,7 +14,7 @@ In this lab, I configure a DHCPv4 server to automatically assign IPv4 addresses 
 
 ### Network Structure: 
 - LAN 1: Connected to GigabitEthernet0/0
-- LAN 2: Conected to GigabitEthernet0/1
+- LAN 2: Connected to GigabitEthernet0/1
 - DHCP Server: Connected to the switch on LAN 1
 
 ## IP Addressing Table
@@ -76,9 +77,19 @@ The `ip helper-address` command forwards DHCP broadcast requests to the DHCP ser
 | Laptop0 - Laptop2 | 192.168.30.x | 192.168.30.1 | `ipconfig` then `ping` 192.168.30.1 |
 
 
-'x' represents a  valid host address within the assigned ip address range 
+'x' represents a  valid host address within the assigned ip address range. 
 If all devices receive IP addresses dynamically and can communicate with the router and each other, DHCPv4 is  functioning correctly.
 
+## Troubleshooting
+If devices are not receiving IP addresses or network connectivity fails, check the following:
+1. DHCP Server Configuration
+   - Ensure the DHCP service is turned on in the server configuration.
+   - Verify that the default gateway and address pool range are correctly configured.
+2. PC Configuration
+   - Make sure end devices are set to DHCP and not static IP.
+3. Address Pool Range
+   - Confirm that the number of devices does not exceed the available IP range.
+   - Make sure the server's IP is excluded from the DHCP pool.
 
 
 
