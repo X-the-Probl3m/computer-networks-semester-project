@@ -16,7 +16,7 @@ This repository contains all the practical and theoretical work completed for my
   
   <img width="2001" height="826" alt="image" src="https://github.com/user-attachments/assets/6e08936b-2f1d-4069-a325-fc31224812a4" />
   
-  - [README](network-topologies/Bus/README.md)
+  - [README](Network-Topologies(part-1)/Bus/README.md)
   - [Packet File](network-topologies/Bus/bus.pkt)
 
 - Mesh Topology
