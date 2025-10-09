@@ -21,10 +21,9 @@ This repository contains all the practical and theoretical work completed for my
 
 - Mesh Topology
 
-  <img width="2001" height="826" alt="image" src="https://github.com/user-attachments/assets/1ca2c3b5-818f-49db-a101-27a6e6d5fa28" />
-
-  - [README](Network-Topologies(part-1)/Extended-Star)
-  - [Packet File](Network-Topologies(part-1)/Extended-Star/extended-star.pkt)
+  - [Packet File](network-topologies/Bus/bus.pkt)
+  - [Screenshot](network-topologies/Bus/bus-topology.png)
+  - [README](network-topologies/Bus/README.md)
 
 - Star Topology
   - [Packet File](network-topologies/Bus/bus.pkt)
@@ -37,9 +36,11 @@ This repository contains all the practical and theoretical work completed for my
   - [README](network-topologies/Bus/README.md)
 
 - Extended Star Topology
-  - [Packet File](network-topologies/Bus/bus.pkt)
-  - [Screenshot](network-topologies/Bus/bus-topology.png)
-  - [README](network-topologies/Bus/README.md)
+  
+  <img width="2001" height="826" alt="image" src="https://github.com/user-attachments/assets/1ca2c3b5-818f-49db-a101-27a6e6d5fa28" />
+
+  - [README](Network-Topologies(part-1)/Extended-Star)
+  - [Packet File](Network-Topologies(part-1)/Extended-Star/extended-star.pkt)
 
 - Hybrid Topology
   - [Packet File](network-topologies/Bus/bus.pkt)
