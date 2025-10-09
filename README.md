@@ -31,9 +31,11 @@ This repository contains all the practical and theoretical work completed for my
   - [README](network-topologies/Bus/README.md)
 
 - Ring Topology
-  - [Packet File](network-topologies/Bus/bus.pkt)
-  - [Screenshot](network-topologies/Bus/bus-topology.png)
-  - [README](network-topologies/Bus/README.md)
+
+  <img width="2001" height="830" alt="image" src="https://github.com/user-attachments/assets/723f0039-5af8-405e-a845-0bc3e6a2ad00" />
+
+  - [README](Network-Topologies(part-1)/Ring/README.md)
+  - [Packet File](Network-Topologies(part-1)/Ring/ring.pkt)
 
 - Extended Star Topology
   
