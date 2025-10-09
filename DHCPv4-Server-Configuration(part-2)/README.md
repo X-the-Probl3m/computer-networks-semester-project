@@ -1,6 +1,6 @@
 # DHCPv4 Server Configuration
 ## Overview
-In this lab, I configure a DHCPv4 server to automatically assign IPv4 addresses to clients on multiple LANs. 
+In this lab, I configure a DHCPv4 server to automatically assign IPv4 addresses to clients across multiple LANs. 
 
  - [Packet File](DHCPv4.pkt)
 
