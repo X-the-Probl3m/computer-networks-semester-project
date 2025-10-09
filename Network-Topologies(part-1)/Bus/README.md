@@ -1,9 +1,10 @@
 # Bus Topology
-
 ## Overview
-This project demonstrates a Bus Topology implemented in Cisco Packet Tracer.
-In a bus network, all devices are connected to a single shared communication line, allowing data to travel in both directions along the same backbone.
-This setup uses switches connected in a straight line to simulate the shared medium instead of a single coaxial cable as in traditional bus networks.
+In this lab, I demonstrate the implementation of a  Bus Network Topology in Cisco Packet Tracer.
+In this setup, multiple switches are connected in a linear (bus) arrangement, with each switch connected to a single pc.
+In a bus network, all devices are connected to a single shared communication line, allowing data to travel in both directions along the same line. This topology is simple and cost-effective for small networks
+
+ - [Packet File](bus.pkt)
 
 <img width="1027" height="342" alt="image" src="https://github.com/user-attachments/assets/2d49d7a3-4362-403e-be76-1bc25fcdd596" />
 
