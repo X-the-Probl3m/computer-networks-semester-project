@@ -1,14 +1,27 @@
-# Computer Networks Semester Project
+# CMPG325 - Computer Networks Semester Project (2025)
 
-## Overview
-This project demonstrates the design and simulation of multiple computer network topologies using Cisco Packet Tracer. Each topology is supported by detailed configuration notes, screenshots, and documentation that explain its structure, connectivity, and functionality.
+North-West University (NWU)  
+Student Name: Sergio Mutisse  
+Module: CMPG325
 
-The repository also includes DHCPv4 server configuration to showcase dynamic IP management within simulated environments.
+## Project Overview
+This repository documents the complete development, configuration, and simulation of multiple computer network topologies designed and tested using Cisco Packet Tracer. The project was completed as part of a Computer Networks course, demonstrating both theoretical understanding and practical implementation of networking concepts.
 
-This project, developed as part of my Computer Networks course, reflects a strong understanding of networking architecture, device configuration, and protocol implementation in network design and analysis.
+The work is divided into two major phases:
+1. Part 1: Fundamental Network Topologies
+   This phase explores the design and behavior of standard network structures including Bus, Ring, Star, Mesh, extended-star topologies. Each topology is simulated to illustrate how data transmission, device communication, and fault tolerance operate in different network environments.
+   The phase concludes with the creation of a Hybrid Network Topology, which combines the multiple topology types to simulate a realistic enterprise network setup.
+
+2. Part 2: DHCPv4 Server Configuration
+  In this phase, a DHCPv4 server is deployed to automate IPv4 address assignment within a computer network. The DHCP server assigns IP addresses dynamically to hosts across the network. This configuration enhances scalability, reduces manual errors, and simulates enterprise-level IP management.
+
+## Learning Outcomes
+- Understanding and implementation of different network topology structures.
+- Integration of multiple topologies into a single hybrid design.
+- Application of VLANs.
+- Practical experience in configuring network services and troubleshooting using Cisco Packet Tracer.
 
 ## Project Structure
-
 ### Part 1 - Network Topologies Design & Simulation
 
 - Bus Topology
