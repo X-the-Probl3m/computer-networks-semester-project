@@ -50,7 +50,7 @@ This project, developed as part of my Computer Networks course, reflects a stron
 
   <img width="1447" height="718" alt="hybrid_topology" src="https://github.com/user-attachments/assets/216ade73-e74c-44e3-8436-1d95af646a45" />
 
-  - [README](network-topologies/Bus/README.md)
+  - [README](Network-Topologies(part-1)/Hybrid/README.md)
   - [Packet File](Network-Topologies(part-1)/Hybrid/hybrid.pkt)
 
 ### Part 2 - DHCPv4 Server Configuration
